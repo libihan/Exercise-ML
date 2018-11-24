@@ -6,4 +6,8 @@
 
 **Task3** - 构建xgboost和lightgbm模型进行预测
 
-**Task4（模型评估）** - 记录五个模型关于accuracy、precision和recall、f1-score、auc的评分表格，画出roc曲线
+**Task4（模型评估）** - 记录五个模型关于accuracy、precision，recall和f1-score、auc、roc的评分表格，画出auc和roc曲线图
+
+**Task5（数据预处理）** - 数据类型转换, 无用特征删除, 缺失值处理（尝试不同的填充看效果）及数据探索
+
+**Task6（模型调优）** - 使用网格搜索对模型进行调优, 并采用五折交叉验证的方式进行模型评估
